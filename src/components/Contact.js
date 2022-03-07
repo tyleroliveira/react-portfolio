@@ -13,10 +13,53 @@ const Contact = () => {
       </div>
       <div className="text-[#a2aabc] text-lg mt-5 mx-60 flex flex-col items-center text-justify">
         <code>
-Placeholder for contact form.
+          <code>
+            Name
+          </code>
+        <div>
+      <form className="contact-form">
+        <input
+          type="text"
+          placeholder="Name"
+          name="text"
+          className="contact-input"
+        ></input>
+      </form>
+    </div>
+        </code>
+        <code>
+          <code>
+            Email
+          </code>
+        <div>
+      <form className="contact-form">
+        <input
+          type="text"
+          placeholder="Email"
+          name="text"
+          className="contact-input"
+        ></input>
+      </form>
+    </div>
+        </code>
+        <code>
+        <div>
+      <form>
+        <code>
+            Message:
+          </code>
+        <br />
+      <label>
+        {""}
+        <textarea
+          name="message"
+        />
+      </label>
+    </form>
+    </div>
         </code>
         <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
-          <a href="mailto:yourmailadress@gmail.com">
+          <a href="mailto:tyleroliveira63@gmail.com">
             <code>Submit</code>
           </a>
         </button>

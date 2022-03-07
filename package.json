@@ -2,7 +2,7 @@
   "name": "tyleroliveira",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tyleroliveira.github.io/react-portfolio",
+  "homepage": "https://tyleroliveira.github.io/react-portfolio/",
   "dependencies": {
     "@heroicons/react": "^1.0.5",
     "@material-tailwind/react": "^0.3.4",

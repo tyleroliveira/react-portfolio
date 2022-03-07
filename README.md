@@ -21,3 +21,5 @@ n/a
 tyleroliveira
 ## Email
 tyleroliveira63@gmail.com
+## Credits
+based on YKizou/VSCode_Template
